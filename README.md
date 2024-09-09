@@ -127,7 +127,8 @@ etc.
 
 POWER BI VISUALIZATION
 
+![sql1](https://github.com/user-attachments/assets/0d518329-581c-440d-9300-8d6cf1e00027)
+
 ![sql2](https://github.com/user-attachments/assets/4a205933-4e92-4f05-81cd-18f5ddba9863)
 
 
-![sql1](https://github.com/user-attachments/assets/0d518329-581c-440d-9300-8d6cf1e00027)
